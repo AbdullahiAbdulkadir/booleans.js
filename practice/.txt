@@ -1,0 +1,9 @@
+// JavaScript Booleans
+
+let isCat = true;
+
+if(isCat) {
+  
+} else {
+  document.getElementById("demo2").innerHTML = "incorrect";
+}
